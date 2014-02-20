@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/nathantsoi/gobot",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go.net/websocket",
+			"Comment": "null-115",
+			"Rev": "b3b868a2af71e3fe11e3dc1345f0a0a64835724a"
+		},
+		{
+			"ImportPath": "github.com/googollee/go-socket.io",
+			"Rev": "7a2b443286222187f996ceede5d353469be6853a"
+		}
+	]
+}

@@ -1,8 +1,8 @@
 # Welcome to gobot
 
-This game was created as a go + web tech teaching tool. The server is the first go code I've written, improvements are welcome and will gladly be pulled in.
+A go + web tech teaching tool. My first go code, improvements are welcome and will gladly be pulled in.
 
-# This repository is missing the 3 main files, necessary to make the program work. Checkout nathantsoi.github.io/slides/gobot.html for the accompanying code and talk
+This repository is missing the 3 main files, necessary to make the program work. Checkout nathantsoi.github.io/slides/gobot.html for the accompanying code and talk
 
 # Prereqs
 

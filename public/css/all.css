@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+.status {
+  height: 0;
+  width: 100%;
+  position: fixed;
+}
+.game-container {
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+}
